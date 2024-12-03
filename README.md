@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=&fontSize=30&fontAlign=50&height=150)
+
+
+
+
 🌟 **自己紹介**
 
 こんにちは、**姜 周賢（カン ジュヒョン、강주현）** と申します！  
